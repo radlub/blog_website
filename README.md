@@ -1,2 +1,2 @@
-# blog_website
-Blog built using Python and Django
+# socialspace_website
+Social Site Website built using Python and Django
